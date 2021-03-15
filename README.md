@@ -15,11 +15,6 @@ Table of contents
    * [Basic Instructions](#basic-instructions)
       * [Slicing](#Slicing)
       * [Acutally Printing](#acutally-printing)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
-   * [Docker](#docker)
-     * [Local](#local)
-     * [Public](#public)
 <!--te-->
 
 Basic Instructions
