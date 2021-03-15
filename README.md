@@ -45,6 +45,7 @@ Before slicing, configure the print settings. 0.2 Profile, 20% infill, and suppo
 ![Screen Shot 2021-03-14 at 7 45 48 PM](https://user-images.githubusercontent.com/9064271/111091240-5192c700-8500-11eb-9553-a22effcb5c1a.png)
 
 When you are ready, slice!
+
 ![Screen Shot 2021-03-14 at 7 45 53 PM](https://user-images.githubusercontent.com/9064271/111091252-5b1c2f00-8500-11eb-90d8-0f46b2a5d0e2.png)
 
 Once sliced, the printer will be able to read the file in a format that it would understand, gfile (basically time, position instructions for printer head). Save to the micro sd with a micro-sd-USB adapter. Once properly inserted into machine, Cura will intelligently see the SD card and give you the option to "Save to removable device. Click that!
