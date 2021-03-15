@@ -46,8 +46,9 @@ Once properly turned on, you should see this!
 Insert the micro SD card into the lower left body of the printer!
 ![IMG_0806](https://user-images.githubusercontent.com/9064271/111091733-ee099900-8501-11eb-8ebf-fc152a9a26f1.jpeg)
 
-You should see this when inserted!!
-[IMG_8447](https://user-images.githubusercontent.com/9064271/111091764-04aff000-8502-11eb-99aa-0c56ba993419.jpeg)
+You should see this when inserted!
+![IMG_0811](https://user-images.githubusercontent.com/9064271/111170776-5001e700-8572-11eb-91f3-a2a53673491e.jpeg)
+
 
 Enter the printer's menu by pushing down on the round button.
 ![IMG_0808](https://user-images.githubusercontent.com/9064271/111091829-2b6e2680-8502-11eb-886c-e7796a874e6e.jpeg)
