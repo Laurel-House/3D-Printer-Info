@@ -87,7 +87,7 @@ Once it's ready to print, it will create an outline around the bottom of the bas
 
 🚨Things to watch for (IMPORTANT)🚨
 ==================================
-In any of these case, cut the power to the printer, IMMEDIATELY!
+In any of these cases, cut the power to the printer, IMMEDIATELY!
 - [ ] Weird noises
 - [ ] Stringy mess of plastic
 - [ ] No more filament on the spool
@@ -97,11 +97,12 @@ In any of these case, cut the power to the printer, IMMEDIATELY!
 Materials
 =========
 These materials are best for this printer.
-1.75 PLA Plastic (Look for 1kg/$20 or better)
 
-ABS (make sure to set this as the material when slicing!!!!)
+* 1.75 PLA Plastic (Look for 1kg/$20 or better)
 
-PLA-Wood Hybrids 
+* ABS (make sure to set this as the material when slicing!!!!)
+
+* PLA-Wood Hybrids 
 
 ## Loading up new filament
 Before inserting or removing old filament, warm the extruder end. Prepare -> Prepare PLA
