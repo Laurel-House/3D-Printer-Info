@@ -48,7 +48,7 @@ When you are ready, slice!
 
 ![Screen Shot 2021-03-14 at 7 45 53 PM](https://user-images.githubusercontent.com/9064271/111091252-5b1c2f00-8500-11eb-90d8-0f46b2a5d0e2.png)
 
-Once sliced, the printer will be able to read the file in a format that it would understand, gfile (basically time, position instructions for printer head). Save to the micro sd with a micro-sd-USB adapter. Once properly inserted into machine, Cura will intelligently see the SD card and give you the option to "Save to removable device. Click that!
+Once sliced, the printer will be able to read the file in a format that it would understand, gfile (basically time, position instructions for printer head). Save to the micro sd with a micro-sd-USB adapter. Once properly inserted into a computer, Cura will intelligently see the SD card and give you the option to "Save to removable device. Click that!
 ![Screen Shot 2021-03-14 at 7 47 45 PM](https://user-images.githubusercontent.com/9064271/111091465-01683480-8501-11eb-9c40-4d96031d04b4.png)
 
 Eject when finished and see you at the printer!
