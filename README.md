@@ -1,16 +1,34 @@
-# 3D-Printer-Info
+3D-Printer-Info
+===============
+
 Laurel House 3D Printer Resources
 
 Hi Laurel house member!
 
 If you are on this page you are looking for resources to get you started with 3D printing!
 
+Table of contents
+=================
+<!--ts-->
+   * [3D-Printer-Info](#3d-printer-info)
+   * [Table of contents](#table-of-contents)
+   * [Basic Instructions](#basic-instructions)
+      * [Slicing](#Slicing)
+      * [Acutally Printing](#acutally-printing)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+   * [Docker](#docker)
+     * [Local](#local)
+     * [Public](#public)
+<!--te-->
 
-## Basic Instructions
-### Slicing
+Basic Instructions
+==================
+Slicing
+-------
 Find something cool you want to print! Checkout [thingiverse](https://www.thingiverse.com/) or [cults3d](https://cults3d.com/en) or [yeggi](https://www.yeggi.com/)
 
-Grab that .obj or .stl file and slice it. The most popular being [Cura](https://ultimaker.com/software/ultimaker-cura)
+Grab an .obj or .stl file from links above and slice it. The most popular Slicer being [Cura](https://ultimaker.com/software/ultimaker-cura)
 - [ ] Configure Cura on your machine with Ender 3 as the 3D printer [Additional help here](http://www.emcu.eu/configure-ultimaker-cura-software-for-use-the-creality-3d-printer-model-ender-3/)
 ![Screen Shot 2021-03-14 at 7 43 39 PM](https://user-images.githubusercontent.com/9064271/111091105-e812b880-84ff-11eb-8081-4a9dc13ee8f0.png)
 
@@ -36,7 +54,8 @@ Once sliced, the printer will be able to read the file in a format that it would
 Eject when finished and see you at the printer!
 ![Screen Shot 2021-03-14 at 7 48 46 PM](https://user-images.githubusercontent.com/9064271/111091486-15139b00-8501-11eb-9fef-28b962260777.png)
 
-### Acutally printing
+Acutally printing
+-----------------
 At this point, you should have a micro SD card loaded up with your object sliced (gfile format ¯\_(ツ)_/¯ )
 
 Make sure that the black power cord in connected. Turn on the machine with the red switch on side. 
@@ -102,3 +121,5 @@ You are done with loading new filament. Please clean any mess made!
 
 Please edit these page at the link provided. Please keep this updated for some cooperative spirit!
 https://github.com/Laurel-House/3D-Printer-Info/edit/main/README.md
+
+## I hear you are interested in building your own 
