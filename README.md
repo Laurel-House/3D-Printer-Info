@@ -15,6 +15,10 @@ Table of contents
    * [Basic Instructions](#basic-instructions)
       * [Slicing](#Slicing)
       * [Acutally Printing](#acutally-printing)
+   * [🚨Things to watch for (IMPORTANT)🚨](#things-to-watch-for-important)
+   * [Materials](#Materials)
+   * [Loading up new filament](#loading-up-new-filament)
+   * [I hear you are interested in building your own objects](#i-hear-you-are-interested-in-building-your-own-objects)
 <!--te-->
 
 Basic Instructions
@@ -81,7 +85,8 @@ Once it's ready to print, it will create an outline around the bottom of the bas
 ![IMG_0818](https://user-images.githubusercontent.com/9064271/111091970-a0d9f700-8502-11eb-9d3d-d7256b017d51.jpeg)
 
 
-## 🚨Things to watch for (IMPORTANT)🚨
+🚨Things to watch for (IMPORTANT)🚨
+==================================
 In any of these case, cut the power to the printer, IMMEDIATELY!
 - [ ] Weird noises
 - [ ] Stringy mess of plastic
@@ -89,7 +94,8 @@ In any of these case, cut the power to the printer, IMMEDIATELY!
 - [ ] Extruder digging into build plate
 - [ ] Anything that seems off....
 
-## Materials
+Materials
+=========
 These materials are best for this printer.
 1.75 PLA Plastic (Look for 1kg/$20 or better)
 
@@ -117,4 +123,6 @@ You are done with loading new filament. Please clean any mess made!
 Please edit these page at the link provided. Please keep this updated for some cooperative spirit!
 https://github.com/Laurel-House/3D-Printer-Info/edit/main/README.md
 
-## I hear you are interested in building your own 
+I hear you are interested in building your own objects 
+======================================================
+
