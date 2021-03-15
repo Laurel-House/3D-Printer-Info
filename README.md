@@ -8,7 +8,7 @@ If you are on this page you are looking for resources to get you started with 3D
 
 ## Basic Instructions
 ### Slicing
-Find something cool you want to print! Checkout (thingiverse)[https://www.thingiverse.com/] or (cults3d)[https://cults3d.com/en]
+Find something cool you want to print! Checkout [thingiverse](https://www.thingiverse.com/) or [cults3d](https://cults3d.com/en) or [yeggi](https://www.yeggi.com/)
 
 Grab that .obj or .stl file and slice it. The most popular being [Cura](https://ultimaker.com/software/ultimaker-cura)
 - [ ] Configure Cura on your machine with Ender 3 as the 3D printer [Additional help here](http://www.emcu.eu/configure-ultimaker-cura-software-for-use-the-creality-3d-printer-model-ender-3/)
