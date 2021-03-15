@@ -125,4 +125,7 @@ https://github.com/Laurel-House/3D-Printer-Info/edit/main/README.md
 
 I hear you are interested in building your own objects 
 ======================================================
-
+* There are a lot of amazing tools out there, but here are a few ordered by complexity
+  * [~$~TinkerCAD](https://www.tinkercad.com/)
+  * [$$ RHINO](https://www.rhino3d.com/)
+  * [$$ FUSION 360](https://www.autodesk.com/products/fusion-360/overview)
