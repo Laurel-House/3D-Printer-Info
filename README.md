@@ -98,7 +98,7 @@ Pinch/Hold down the spring tensioner and snake through the hole, by the gear and
 If the extruder end if hot and ready, pushing the filament all the way through the filament tube and to the extruder end should give you string plastic.
 ![Screen Shot 2021-03-14 at 8 31 28 PM](https://user-images.githubusercontent.com/9064271/111092845-39717680-8505-11eb-9a11-3a8a04c767d7.png)
 
-You are done with loading new filament. Please any mess made!
+You are done with loading new filament. Please clean any mess made!
 
 Please edit these page at the link provided. Please keep this updated for some cooperative spirit!
 https://github.com/Laurel-House/3D-Printer-Info/edit/main/README.md
